@@ -1,1 +1,1 @@
-# html-css-js-project-boilerplate
+By using this you can handle your daily task 
